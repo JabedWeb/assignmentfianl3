@@ -386,8 +386,8 @@ position: relative;
 }
 
 /* chhose us css start */
-.choose-us{
-	margin: 6rem 0;
+.choose-us {
+	padding: 8rem 0;
 }
 .skill-title{}
 .skill-title p{}
@@ -612,8 +612,8 @@ margin-bottom: 1rem;
 	background: linear-gradient(-45deg, rgba(221,76,35,1) 37%, rgba(234,107,32,1) 71%);
 }
 /* blog css start */
-.blog{
-	padding: 4rem 0;
+.blog {
+	padding: 7rem 0;
 }
 .blog{}
 .blog h3{}
